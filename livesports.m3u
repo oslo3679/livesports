@@ -1,6 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
+# ==================== Caze Tv ====================
+#EXTINF:-1 group-title="Caze Tv" tvg-name="Caze Tv" tvg-logo="", Caze Tv
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
+
 # ==================== FOX SPORTS ====================
 #EXTINF:-1 group-title="FOX SPORTS" tvg-name="Fox Sports 1" tvg-logo="", Fox Sports 1
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd|drmScheme=clearkey&drmLicense=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
