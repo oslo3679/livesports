@@ -1,28 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-# ==================== Caze Tv ====================
-#EXTINF:-1 group-title="Caze Tv" tvg-name="Caze Tv" tvg-logo="", Caze Tv
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
-
-# ==================== FOX SPORTS ====================
-#EXTINF:-1 group-title="FOX SPORTS" tvg-name="Fox Sports 1" tvg-logo="", Fox Sports 1
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd|drmScheme=clearkey&drmLicense=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-
-#EXTINF:-1 group-title="FOX SPORTS" tvg-name="Fox Sports 2" tvg-logo="", Fox Sports 2
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd|drmScheme=clearkey&drmLicense=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-
-#EXTINF:-1 group-title="FOX SPORTS" tvg-name="Fox Sports Premium" tvg-logo="", Fox Sports Premium
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-
-#EXTINF:-1 group-title="FOX SPORTS" tvg-name="Fox Sports Deports" tvg-logo="", Fox Sports Deports
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-
-#EXTINF:-1 group-title="FOX SPORTS" tvg-name="Fox Sports 1" tvg-logo="",FS1
-https://a166aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-
-#EXTINF:-1 group-title="FOX SPORTS" tvg-name="Fox Sports 2" tvg-logo="",FS2
-https://a166aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+# ==================== FIFA ====================
+#EXTINF:-1 group-title="FIFA" tvg-name="ZEE" tvg-logo="", ZEE ENG
+https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd?|drmScheme=clearkey&drmLicense=48c50606538919784866f94fb46156e4:67f809f98803869d9353555a87e636ab
 
 # ==================== TNT SPORTS ====================
 #EXTINF:-1 group-title="TNT SPORTS" tvg-name="TNT Sports 1" tvg-logo="", TNT Sports 1
@@ -44,22 +25,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/m6s
 #EXTINF:-1 group-title="PREMIER SPORTS" tvg-name="Premier Sports 2" tvg-logo="", Premier Sports 2
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 
-# ==================== TSN ====================
-#EXTINF:-1 group-title="TSN" tvg-name="TSN 1" tvg-logo="", TSN 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-
-#EXTINF:-1 group-title="TSN" tvg-name="TSN 2" tvg-logo="", TSN 2
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|drmScheme=clearkey&drmLicense=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-
-#EXTINF:-1 group-title="TSN" tvg-name="TSN 3" tvg-logo="", TSN 3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd|drmScheme=clearkey&drmLicense=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-
-#EXTINF:-1 group-title="TSN" tvg-name="TSN 4" tvg-logo="", TSN 4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|drmScheme=clearkey&drmLicense=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-
-#EXTINF:-1 group-title="TSN" tvg-name="TSN 5" tvg-logo="", TSN 5
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd|drmScheme=clearkey&drmLicense=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-
 # ==================== FUBO ====================
 #EXTINF:-1 group-title="FUBO" tvg-name="Fubo Sports 1" tvg-logo="", Fubo Sports 1
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
@@ -73,24 +38,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 
 #EXTINF:-1 group-title="SPOTV" tvg-name="SPOTV 2" tvg-logo="", SPOTV 2
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-
-#EXTINF:-1 group-title="SPOTV" tvg-name="Sport TV" tvg-logo="", Sport TV
-https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd|drmScheme=clearkey&drmLicense=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-
-# ==================== LaLiga TV ====================
-
-#EXTINF:-1 group-title="LaLiga TV" tvg-name="LaLiga TV" tvg-logo="", LaLiga TV
-https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd|drmScheme=clearkey&drmLicense=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-
-# ==================== UNIFY SPORTS ====================
-#EXTINF:-1 group-title="UNIFY SPORTS" tvg-name="UNIFY SPORTS 1 FHD" tvg-logo="", UNIFY SPORTS 1 FHD
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd|drmScheme=clearkey&drmLicense=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
-
-#EXTINF:-1 group-title="UNIFY SPORTS" tvg-name="UNIFY SPORTS 2 FHD" tvg-logo="", UNIFY SPORTS 2 FHD
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa2)/master.mpd|drmScheme=clearkey&drmLicense=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
-
-#EXTINF:-1 group-title="UNIFY SPORTS" tvg-name="UNIFY SPORTS 3 FHD" tvg-logo="", UNIFY SPORTS 3 FHD
-https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa3)/master.mpd|drmScheme=clearkey&drmLicense=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
 
 # ==================== EURO SPORTS ====================
 #EXTINF:-1 group-title="EURO SPORTS" tvg-name="Euro Sports 1" tvg-logo="", Euro Sports 1
@@ -131,18 +78,14 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTINF:-1 group-title="FANCODE" tvg-name="FanCode HD 2" tvg-logo="", FanCode HD 2
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 
-#EXTINF:-1 group-title="FANCODE" tvg-name="Fancode Live 1" tvg-logo="", Fancode Live 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-
-#EXTINF:-1 group-title="FANCODE" tvg-name="Fancode Live 2" tvg-logo="", Fancode Live 2
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-
-# ==================== OTHER SPORTS ====================
-#EXTINF:-1 group-title="OTHER" tvg-name="F1 TV" tvg-logo="", F1 TV
+# ==================== F1 ====================
+#EXTINF:-1 group-title="F1" tvg-name="F1 TV" tvg-logo="", F1 TV
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd|drmScheme=clearkey&drmLicense=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 
 #EXTINF:-1 group-title="OTHER" tvg-name="F1 Sky Sport" tvg-logo="", F1 Sky Sport
 https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd|drmScheme=clearkey&drmLicense=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9
+
+# ==================== OTHER SPORTS ====================
 
 #EXTINF:-1 group-title="OTHER" tvg-name="One Fight FHD" tvg-logo="", One Fight FHD
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
