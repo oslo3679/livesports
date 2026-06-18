@@ -3,7 +3,7 @@
 
 # ==================== FIFA ====================
 #EXTINF:-1 group-title="FIFA" tvg-name="ZEE" tvg-logo="", ZEE ENG
-https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd?|drmScheme=clearkey&drmLicense=48c50606538919784866f94fb46156e4:67f809f98803869d9353555a87e636ab
+https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd|drmScheme=clearkey&drmLicense=48c50606538919784866f94fb46156e4:67f809f98803869d9353555a87e636ab
 
 # ==================== TNT SPORTS ====================
 #EXTINF:-1 group-title="TNT SPORTS" tvg-name="TNT Sports 1" tvg-logo="", TNT Sports 1
